@@ -1,0 +1,15 @@
+"trimloss" instances converted from MINLPLIB2 into MISOCP form.
+
+The conversion is discussed in eq (3)-(4) of
+"Extended Formulations in Mixed-integer Convex Programming"
+by M. Lubin, E. Yamangil, R. Bent, and J.P. Vielma
+http://dx.doi.org/10.1007/978-3-319-33461-5_9
+
+The descriptions of the original instances are available at:
+
+http://www.gamsworld.org/minlp/minlplib2/html/tls2.html
+http://www.gamsworld.org/minlp/minlplib2/html/tls4.html
+http://www.gamsworld.org/minlp/minlplib2/html/tls5.html
+http://www.gamsworld.org/minlp/minlplib2/html/tls6.html
+http://www.gamsworld.org/minlp/minlplib2/html/tls7.html
+http://www.gamsworld.org/minlp/minlplib2/html/tls12.html
