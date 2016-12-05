@@ -1,0 +1,9 @@
+Syn instances originally available through the CMU-IBM MINLP solver project page: http://egon.cheme.cmu.edu/ibm/page.htm. Converted from MINLPLIB2, e.g.:
+
+http://www.gamsworld.org/minlp/minlplib2/html/syn10m.html
+
+Tiny epsilon coefficients used for avoiding division by zero have been removed since these are not needed in the conic formulation.
+
+References:
+Duran, Marco A and Grossmann, I E, An Outer-Approximation Algorithm for a Class of Mixed-integer Nonlinear Programs, Mathematical Programming, 36:3, 1986, 307-339.
+Türkay, Metin and Grossmann, I E, Logic-based MINLP Algorithms for optimal synthesis of process networks, Computers and Chemical Engineering, 20:8, 1996, 959-978.
