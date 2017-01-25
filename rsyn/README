@@ -1,0 +1,9 @@
+RSyn instances originally available through the CMU-IBM MINLP solver project page: http://egon.cheme.cmu.edu/ibm/page.htm. Converted from MINLPLIB2, e.g.:
+
+http://www.gamsworld.org/minlp/minlplib2/html/rsyn0805h.html
+
+Tiny epsilon coefficients used for avoiding division by zero have been removed since these are not needed in the conic formulation.
+
+References:
+Sawaya, Nicolas W, Reformulations, relaxations and cutting planes for generalized disjunctive programming, PhD thesis, Carnegie Mellon University, 2006.
+
